@@ -1,0 +1,14 @@
+header{
+    background-color: #D9D9D9;
+    color:#545454;
+    height:fit-content;
+    width: 95%;
+    padding:2px;
+    text-align: center;
+}
+#sidebar{
+    background-color: #EFEFEF;
+    color:#545454;
+    top: 0px;;
+    left:40px;
+}
